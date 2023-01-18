@@ -1,6 +1,11 @@
 # myComputerCraft
 Hopefully more useful computercraft
-
+Item.lua
+  DESC
+  -Used to grab item durability
+  
+  TOADDTO
+  -Add to DigBlock.lua
 DigBlock.lua
   DESC
   -Is for using a fortune pick on ore blocks.
