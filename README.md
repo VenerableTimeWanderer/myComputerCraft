@@ -37,6 +37,14 @@ DigBlock.lua
   
   HOWTO
   -Have a program state check on startup which checks rednet for and use GPS to get position.
+
+invManager.lua
+  DESC
+  -Type "dump" or "$dump" which will hide from other players. Will dump your top row in a chest, left of the inventory manager by defualt.
+  
+  REQ
+  -Inventory manager
+  -Chatbox
   
   
   
