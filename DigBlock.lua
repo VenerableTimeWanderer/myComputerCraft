@@ -1,4 +1,4 @@
-local ac = peripheral.wrap("right")
+local ac = peripheral.find("weakAutomata")
 local blockPlaced = false --Test variable for whether or not a block is placed
 local pick = turtle.getItemDetail(1, true)
 
